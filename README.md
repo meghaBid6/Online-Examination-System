@@ -77,7 +77,7 @@ CREATE DATABASE online_exam_db;
 Example:
 
 ```properties
-spring.datasource.url=jdbc:mysql://localhost:3306/online_exam_db
+spring.datasource.url=https://github.com/meghaBid6/Online-Examination-System
 spring.datasource.username=root
 spring.datasource.password=YOUR_PASSWORD
 
